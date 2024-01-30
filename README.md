@@ -1,5 +1,5 @@
-## agile_dev
+# agile_dev
 Vi lærer om agile udvikling, ikke kodning men en generel metode til udvikling (kodning)
 
-# test
+## test
 Er det kapitler?
