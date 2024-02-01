@@ -1,0 +1,14 @@
+firstName: John
+lastName: Smith
+age: 36
+hobbies:
+  - fishing
+  - woodworking
+  - barbecue
+address: 
+ roadName: Acorn Lane
+ roadNumber: 73
+ state: Washington
+ country: America
+occupation: CEO
+hasGymMembership: true
