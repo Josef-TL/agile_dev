@@ -182,46 +182,25 @@ changing directory to root to continue
 176: the last folder was created a while ago, cant find it in cmd history
 177: 
 178: 
-
-Start at ~/abortion/beat/regret
-
-179: open a file in the terminal and see the content
-
-180: output hidden files
-
-181: if there are any directories in the folder then move inside any one of them
-
+179: no files in ~/abortion/beat/regret
+180: no files in ~/abortion/beat/regret
+181:no folders in ~/abortion/beat/regret
 182: create a file called abortion.txt
-
-183: output hidden files
-
-184: output the content of any file in the directory
-
-185: delete the last folder you created
-
-186: output the sizes of the files in the directory
-
-187: create a directory experienced and move into the directory
-
-188: create two directories cater and banish and move into banish
-
-189: output the sizes of the files in the directory
-
-190: open a file in the terminal and see the content
-
+183:
+184: 
+185: 
+186: 
+187: 
+188: 
+189: no files in ~/abortion/beat/exxperienced/banish
+190: no files in ~/abortion/beat/exxperienced/banish
 191: create two directories panel and recommend and move into recommend
-
 192: 
 193: create a file called difficulty.txt and rename it so that it's called pioneer.txt instead. Hint: This should be done in 2 commands
-
-194: output the full path you are on
-
-195: create a file called support.txt and immediately delete it
-
+194:
+195: 
 196: 
-197: create a file called panel.txt and immediately delete it
-
+197: 
 198: 
-199: output hidden files
-
+199: no files in ~/abortion/beat/exxperienced/banish/recommend
 200: 
